@@ -1,0 +1,13 @@
+{
+  "name": "gd-data",
+  "version": "0.0.0",
+  "description": "Get public google docs as structured data",
+  "author": "Jon Gacnik <jon@folderstudio.com>",
+  "license": "WTFPL",
+  "scripts": {},
+  "dependencies": {
+    "archieml": "^0.4.2",
+    "get-content": "^1.0.2",
+    "node-html-parser": "^1.1.16"
+  }
+}
